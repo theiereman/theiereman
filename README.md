@@ -1,4 +1,1 @@
-![](https://raw.githubusercontent.com/theiereman/github-stats-images/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/theiereman/github-stats-images/master/generated/languages.svg#gh-dark-mode-only)
-
-generated with ![jstrieb/github-stats](https://github.com/jstrieb/github-stats)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=theiereman&show_ring=false&border_radius=2&size=compact&compact_count=3)
